@@ -27,3 +27,8 @@
   @expo/vector-icons
 
 **Screenshots**
+![image](https://github.com/akhilshetty97/WeatherApp/assets/47709446/09f977ae-a12a-45b7-95ba-6cd1fd47c3e6)
+![image](https://github.com/akhilshetty97/WeatherApp/assets/47709446/0dfc2927-392d-4804-8f05-c58cd023670e)
+
+
+
