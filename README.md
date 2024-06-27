@@ -1,5 +1,5 @@
 **Weather App:**    
-Built a React-Native app for weather forecasting.
+Created a React-Native weather forecasting app featuring dual temperature display in Celsius and Fahrenheit simultaneously
 
 **Features:** 
  
